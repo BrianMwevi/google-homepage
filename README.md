@@ -5,4 +5,4 @@ Brian Mwevi, a web developer with passion. Get to know me [here](https://github.
 ## Language
 Hmlt5 and Css3
 ## To contribute
-If you would like to improve this mini project, feel free to send pull request with an issue on what you would love to contribute/change.
+If you would like to improve this mini project, feel free to send pull requests with an issue on what you would love to contribute/change.
